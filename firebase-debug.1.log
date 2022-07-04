@@ -1,0 +1,17 @@
+[debug] [2022-07-04T12:14:25.106Z] ----------------------------------------------------------------------
+[debug] [2022-07-04T12:14:25.109Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\anglo\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js projects:list
+[debug] [2022-07-04T12:14:25.110Z] CLI Version:   11.2.0
+[debug] [2022-07-04T12:14:25.110Z] Platform:      win32
+[debug] [2022-07-04T12:14:25.110Z] Node Version:  v16.15.1
+[debug] [2022-07-04T12:14:25.112Z] Time:          Mon Jul 04 2022 13:14:25 GMT+0100 (heure normale d’Europe centrale)
+[debug] [2022-07-04T12:14:25.112Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-04T12:14:25.167Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-04T12:14:25.167Z] > authorizing via signed-in user (hadilaabdelaoui@gmail.com)
+[debug] [2022-07-04T12:14:25.174Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2022-07-04T12:14:25.217Z] Failed to make request to https://firebase.googleapis.com/v1beta1/projects?pageSize=1000
+[debug] [2022-07-04T12:14:25.234Z] FirebaseError: Failed to make request to https://firebase.googleapis.com/v1beta1/projects?pageSize=1000
+    at RetryOperation._fn (C:\Users\anglo\AppData\Roaming\npm\node_modules\firebase-tools\lib\apiv2.js:241:31)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[error] 
+[error] Error: Failed to list Firebase projects. See firebase-debug.log for more info.
