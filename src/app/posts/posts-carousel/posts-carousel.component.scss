@@ -26,7 +26,7 @@
             flex-direction: row;
             border-radius: 15px;
             box-shadow: 0 0 9px 0 rgba(240, 223, 223, 0.16);
-            border: 1px solid #c8cad547;
+            border: 1px solid #d0c8d547;
             transition: all 0.2s ease-in-out;
 
             a {
@@ -35,7 +35,7 @@
 
             .thumbnail {
                 height: 170px;
-                background-color: #c1c7dc;
+                background-color: #c1dccf;
                 border-top-left-radius: 15px;
                 border-top-right-radius: 15px;
                 position: relative;
@@ -52,7 +52,7 @@
                     border-radius: 10px 0 0 0;
                     font-size: 12px;
                     font-weight: 600;
-                    color: #222f5c;
+                    color: #3b225c;
                 }
             }
 
@@ -62,7 +62,7 @@
 
                 h2.title {
                     margin-top: 0;
-                    color: #222f5c;
+                    color: #4d225c;
                     font-weight: 600;
                     font-size: 18px;
                     text-align: left;
@@ -71,7 +71,7 @@
                 p.description {
                     font-size: 14px;
                     font-weight: 500;
-                    color: #5e6788;
+                    color: #755e88;
                     text-align: left;
                     line-height: 1.5em;
                 }
@@ -86,7 +86,7 @@
                 font-size: 14px;
                 font-weight: 600;
                 text-decoration: none;
-                color: #3d4870;
+                color: #633d70;
                 cursor: pointer;
                 margin: 0 15px 15px 0;
 
@@ -110,7 +110,7 @@
 
     .paginator {
         text-align: right;
-        color: #222f5c;
+        color: #3f225c;
         font-style: italic;
 
         span {

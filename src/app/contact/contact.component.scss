@@ -1,8 +1,8 @@
 #contact {
-    top: -4em;
+    top: -5em;
     position: relative;
     justify-content: center;
-    background-color: #d4e7fe;
+    background-color: #e2d4fe;
 
     .feedback-container {
         display: none;
@@ -38,12 +38,12 @@
 
         .success {
             display: none;
-            color: #373837;
+            color: #383738;
         }
 
         &.success {
             display: block;
-            background-color: #c4e4c6;
+            background-color: #c4c5e4;
             border: 1px solid #cecece;
             -webkit-animation: fadeIn 1s;
             animation: fadeIn 1s;
@@ -67,16 +67,16 @@
 
     .illustration {
         position: absolute;
-        height: 105%;
-        bottom: -1em;
-        right: 0;
+        height: 90%;
+        bottom: 0em;
+        right: 6em;
         z-index: 1;
     }
 
     .half-circle {
         width: 550px;
         height: 450px;
-        background-color: #c1d5ee;
+        background-color: #a696c5;
         border-top-left-radius: 100%;
         border: 0;
         border-right: 0;
@@ -85,7 +85,7 @@
         -moz-box-sizing: border-box;
         box-sizing: border-box;
         position: absolute;
-        bottom: -1em;
+        bottom: -7em;
         right: 0;
         z-index: 0;
     }
@@ -100,14 +100,14 @@
         .left-side {
             flex-grow: 4;
             z-index: 2;
-            margin-bottom: 1em;
+            margin-bottom: 0em;
             
             .title {
                 
                 h1 {
                     font-size: 42px;
                     font-weight: 600;
-                    color: #222f5c;
+                    color: #32225c;
                 }
             }
             
@@ -126,7 +126,7 @@
                     background-repeat: no-repeat;
                     background-position: center center;
                     border-radius: 99em;
-                    background-image: url('../../assets/template/about/guilherme-borges-bastos-picture.jpg');
+                    background-image: url('../../assets/template/about/hadil-abdelaoui-picture.png');
                     border: 1px solid #d4e7fe;
                     margin-right: 1em;
                 }
@@ -135,24 +135,24 @@
     
                     .icon {
                         margin-right: 10px;
-                        color: #222f5c;
+                        color: #3e225c;
                     }
     
                     a {
                         text-decoration: none;
-                        color: #646d8d;
+                        color: #79648d;
                     }
                     
                     p {
                         margin: 0 0 8px 0;
-                        color: #646d8d;
+                        color: #72648d;
                         font-weight: 600;
                     }
                     
                     .name {
                         font-size: 18px;
                         font-weight: bold;
-                        color: #222f5c;
+                        color: #33225c;
                         margin-bottom: 10px;
                     }
                 }
@@ -186,7 +186,7 @@
                     label {
                         font-size: 14px;
                         font-weight: 600;
-                        color: #222f5c;
+                        color: #36225c;
                         margin-bottom: 5px;
                         margin-left: 10px;
                     }
@@ -211,7 +211,7 @@
                     }
     
                     input[type=submit] {
-                        background-color: #70c576;
+                        background-color: #7b5fa2;
                         font-size: 22px;
                         color: #fff;
                         padding: 1em;
@@ -226,8 +226,8 @@
                         }
     
                         &:hover {
-                            color: #2c612f;
-                            background-color: #68bd6e;
+                            color: #362254;
+                            background-color: #9181ca;
                         }
                     }
     

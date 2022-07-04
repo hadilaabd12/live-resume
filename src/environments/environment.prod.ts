@@ -2,22 +2,21 @@ export const environment = {
   production: true,
   // replace the data below with your personal data
   personal: {
-    caricature: "gbastos-illustration@2x-mask.png",
-    name: "Guilherme Borges Bastos",
-    birth: "1993-06-29",
-    email: "guilhermeborgesbastos@gmail.com",
-    phone: "+31 68 733 3020",
-    location: "Rotterdam, South Holland, Netherlands"
+    caricature: "hadil-illustration.png",
+    name: "Hadil Abdelaoui",
+    birth: "1999-08-06",
+    email: "hadilaabdelaoui@gmail.com",
+    phone: "+216 58 914 598",
+    location: "Sousse, Tunisia"
   },
   // replace the dummy data below with the real firebase configs
   firebaseConfig: {
-    apiKey: "AIzaSyC2frVRAAltsVTmdwgFnATGHoVUzNHfzsM",
-    authDomain: "live-resume-a575a.firebaseapp.com",
-    databaseURL: "https://live-resume-a575a.firebaseio.com",
-    projectId: "live-resume-a575a",
-    storageBucket: "live-resume-a575a.appspot.com",
-    messagingSenderId: "681076751855",
-    appId: "1:681076751855:web:18bae3866ebfcc4fcd8a1a",
-    measurementId: "G-00VXD77WNG"
+    apiKey: "AIzaSyC7glKN5j7RLxldUQlh4Vk9Lew2b5_n6ec",
+    authDomain: "bywings.firebaseapp.com",
+    projectId: "bywings",
+    storageBucket: "bywings.appspot.com",
+    messagingSenderId: "1028383440413",
+    appId: "1:1028383440413:web:1618cef4334936716e10f4",
+    measurementId: "G-Y2BDB7P3LV"
   }
 };

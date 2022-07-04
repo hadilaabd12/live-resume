@@ -16,26 +16,27 @@
     top: 7em;
     left: -5px;
     width: 380px;
-	text-align: center;
+	text-align: left;
 }
 
 .dialog-container .console p {
 	margin: 0;
     padding: 0;
-    text-align: center;
+    text-align: left;
 }
 
 .dialog-container .console .hello {
 	font-size: 60px;
     font-weight: 600;
-    color: #222f5c;
+    color: #43225c;
 }
 
 .dialog-container .console .txt-rotate {
 	font-size: 40px;
-    color: #576183;
+    color: #6f5783;
 	font-weight: 600;
 	margin-top: 10px;
+	text-align: left;
 }
 
 /* Dialog container animation */
