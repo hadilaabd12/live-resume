@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://bywings.firebaseapp.com/sitemap.xml
+Sitemap: https://bywings.web.app/sitemap.xml
