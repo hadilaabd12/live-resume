@@ -21,8 +21,8 @@ pipeline {
         */       
         stage('Deploy') {
             steps {
-                sh 'rm -r /var/www/hadilabdelaoui.com/html/*'
-                sh 'cp -r ./dist/* /var/www/hadilabdelaoui.com/html/'
+                sh 'rm -r /var/bywings/firebaseapp/com/html/*'
+                sh 'cp -r ./dist/* /var/bywings/firebaseapp/com/html/'
             }
         }             
     }
