@@ -5,6 +5,7 @@ import { ResumeComponent } from "./resume/resume.component";
 // Any URL apart from the root domain is going to be rendered as "page-not-found".
 const routes: Routes = [
   { path: "/", component: ResumeComponent},
+  { path: "", component: ResumeComponent},
   { path: "about", redirectTo: "/#about"},
   { path: "experience", redirectTo: "/#experience"},
   { path: "experiences", redirectTo: "/#experience"},
