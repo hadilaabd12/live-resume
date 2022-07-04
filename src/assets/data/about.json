@@ -1,29 +1,24 @@
 {
     "internationalizations": [
         {
-            "language": "pt",
-            "description": "Minha caminhada como <i>programador</i> teve início aos nove anos de idade quando me apaixonei pelo <i>Logo</i>, uma linguagem de programação educacional usada para cativar crianças nas maravilhosas terras da <i>Programação</i>. Costumava passar horas seguidas tentando criar figuras e animações, usando matemática e geometria. Naquela época, eu simplesmente não conhecia os desafios emocionantes que ainda estavam por vir.<br><br>Alguns anos depois, consegui um estágio como <i>Webmaster</i>, desde então, nunca mais parei, sendo mais de uma década, onde venho tendo a chance de trabalhar com pessoas maravilhosas, aprendendo todos os dias, viajando pelo mundo e, principalmente, sempre fazendo grandes amizades.<br><br>Tive experiência como empreendedor, quando um amigo apresentou-me <i>Magento</i>, um framework de comércio eletrônico extremamente popular. Depois de fazer vários cursos e muita prática, consegui contratos com agências de São Paulo e Rio de Janeiro, Brasil. Essa experiência de empreendedorismo me deu a chance de ver o outro lado da moeda, o que contribuiu para expandir um pouco mais minha consciência como colaborador.<br><br>Atualmente, continuo buscando novas habilidades, aprendendo e compartilhando meu humilde conhecimento, tanto quanto possível."
+            "language": "fr",
+            "description": "Les gens disent que votre passion vous mènera là où vos pieds ne peuvent pas. Après être tombé amoureuse du monde de l'informatique, j'ai réalisé à quel point c'était un énorme euphémisme. Au début de mon voyage avec le codage et la programmation, Python a été le premier langage dont j'était passionée. Cela m'a poussé à regarder plus loin et à devenir plus curieuse. <br/><br/> Ma première véritable expérience a toutefois été lorsque j'ai accepté une offre de stage en tant que stagiaire en développement web frontend. Grâce à ce stage, je me suis familiarisé avec l'environnement de travail, les compétences nécessaires et ce avec quoi je suis plus à l'aise et motivé pour travailler. J'ai poursuivi plus tard pour me familiariser davantage avec le monde de Python et de la manipulation de données à travers une série de bootcamps et de cours <i>Coursera</i>. Je me suis ensuite spécialisé dans le Machine Learning et le Deep Learning en tant que Tensor Flow Developer. Plus tard, je suis devenu développeur spécialisé AWS. J'ai continué au cours de la dernière année à travailler sur mon premier modèle de système de recommandation basé sur l'apprentissage automatique avec l'algorithme KNN. <br/><br/> J'ai eu une expérience d'entrepreneuriat avec un ami à moi. J'ai pu accompagner leur projet dans des domaines techniques tels que le développement frontend et les aspects de machine learning ainsi que des tâches de gestion. <br/><br/> Aujourd'hui, je continue à chercher à améliorer mes compétences en tant que passionné de ML & DL tout en poursuivant des stages de fin d'études dans des domaines tels que la science des données, l'apprentissage automatique, l'ingénierie des données ou le devops."
         },
         {
             "language": "en",
-            "description": "My path as a <i>programmer</i> has started at nineish years old, when I've fallen in love with <i>Logo</i>, an educational programming language used to captivate kids in the wonderful lands of <i>Programming</i>. I used to spend hours in a row trying to build figures and animations, using math and geometry. At that time, I just did not know the exciting challenges that were yet to come.<br><br>A few years later, I got an internship as a <i>Webmaster</i>, since then, I have never stopped. It has been more than a decade, where I'm having the chance to work with marvelous people, learning every day, traveling the world, and mainly, always making great friendships.<br><br>I had an entrepreneurship experience, when a friend of mine presented me <i>Magento</i>, an extremely popular e-commerce framework. After doing several courses and a lot of practice, I got contracts with agencies from São Paulo and Rio de Janeiro, Brazil. This entrepreneurship experience gave me the chance to see the other side of the coin, which contributed to sort of expand a bit more my consciousness as an employee.<br><br>Nowadays, I keep seeking new skills, learning and sharing my humble knowledge as much as possible."
+            "description": "People say your passion will take you where your feet can not. After falling in love with the world of IT, I realised what a huge understatement that was. At the beginning of my journey with coding and programming, Python was the first language I fell in love with. It prompted me to look further and become more curious. <br/><br/> My first actual experience however was when I took up an internship offer as frontend web development intern. Thanks to that internship I became more familiar with the work environment, the necessary skills and what I am more comfortable and motivated to work with. I went on later to get more in touch with the world of python and data manipulation through a series of bootcamps and <i>Coursera</i> courses. I went on to specialize in Machine Learning and Deep Learning as a Tensor Flow Developer. Later on, I became an AWS Specialised Developer. I went on during the last year to work on my first Machine learning based recommendation systems model with KNN algorithm. <br/><br/> I had an entrepreneurship experience along with a friend of mine. I was able to support their project in technical areas such as frontend development and machine learning aspects as well as management tasks. <br/><br/> Nowadays, I keep seeking to improve my skills as an ML & DL enthusiast while pursuing an end of studies internships in fields like data science, machine learning, data engineering or devops."
         }
     ],
     "medias": [        
         {
             "icon": "linkedin",
             "title": "LinkedIn",
-            "http": "https://www.linkedin.com/in/guilhermeborgesbastos/"
+            "http": "https://www.linkedin.com/in/hadil-abdelaoui/"
         },
         {
             "icon": "github",
             "title": "GitHub",
-            "http": "https://github.com/guilhermeborgesbastos"
-        },
-        {
-            "icon": "facebook",
-            "title": "Facebook",
-            "http": "https://www.facebook.com/guilherme.borgesbastos"
+            "http": "https://github.com/hadilaabd12"
         }
     ],
     "hobbies": [        

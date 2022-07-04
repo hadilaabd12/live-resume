@@ -1,7 +1,7 @@
 #about {
     flex-direction: column;
     align-items: center;
-    background-image: linear-gradient(0deg, #fff 44.44%, #d4e7fe 44.44%, #d4e7fe 0%, #fff 0%, #fff 94.44%, #d4e7fe 94.44%, #d4e7fe 100%);
+    background-image: linear-gradient(0deg, #fff 44.44%, #e2d4fe 0%, #fff 0%, #fff 94.44%, #e2d4fe 94.44%, #e2d4fe 100%);
     background-size: 10px 1220px;
 }
 
@@ -38,7 +38,7 @@
         h2 {
             font-size: 35px;
             font-weight: 600;
-            color: #222f5c;
+            color: #37225c;
             margin: 5px 0 0 0;
         }
     
@@ -52,7 +52,7 @@
         p {
     
             &.years-old {
-                color: #b2b6c6;
+                color: #b6b2c6;
                 font-size: 18px;
                 font-style: italic;
             }
@@ -61,7 +61,7 @@
                 margin-top: 1em;
                 font-size: 18px;
                 font-weight: 500;
-                color: #5e6788;
+                color: #715e88;
                 margin-right: 2em;
                 text-align: left;
                 min-height: 220px;
@@ -71,12 +71,12 @@
     
         .icon {
             font-size: 40px;
-            color: #555f81;
+            color: #615581;
             margin-right: 1em;
             transition: 0.3s;
     
             &:hover {
-                color: #8087a1;
+                color: #36274e;
             }
         }
     }
@@ -86,16 +86,16 @@
     
         .profile-picture {
             display: block;
-            width: 450px;
-            height: 450px;
+            width: 350px;
+            height: 350px;
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center center;
             -webkit-border-radius: 99em;
             -moz-border-radius: 99em;
             border-radius: 99em;
-            background-image: url('../../assets/template/about/guilherme-borges-bastos-picture.jpg');
-            border: 3px solid #d4e7fe;
+            background-image: url('../../assets/template/about/hadil-abdelaoui-picture.png');
+            border: 3px solid #e6d4fe;
         }
     
         .social-media {
@@ -104,12 +104,12 @@
     
             .icon {
                 font-size: 60px;
-                color: #414c73;
+                color: #524173;
                 margin: 0 20px 0 20px;
                 transition: 0.3s;
     
                 &:hover {
-                    color: #8087a1;
+                    color: #8b80a1;
                 }
             }
         }

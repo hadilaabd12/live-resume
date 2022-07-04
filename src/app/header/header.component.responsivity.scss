@@ -46,11 +46,11 @@
 
                     a {
                         font-size: 20px;
-                        color: #5e81abbd;
+                        color: #755eabbd;
                         padding-left: 25px;                        
 
                         &:hover {
-                            color: #222f5c;
+                            color: #32225c;
                             -webkit-box-shadow: none;
                             -moz-box-shadow: none;
                             box-shadow: none;
@@ -58,7 +58,7 @@
 
                         &.active {
                             background-color: #fff;
-                            color: #222f5c;
+                            color: #36225c;
                         }
 
                         &:not(.active):hover {
@@ -70,11 +70,11 @@
                         content: '\2022';
                         font-size: 50px;
                         position: absolute;
-                        color: #5e81abbd;
+                        color: #6c5eabbd;
                         margin-top: -4px;
                     }
                     &:hover::before {
-                        color: #222f5c;
+                        color: #2b225c;
                     }
                 }
             }
@@ -113,7 +113,7 @@
 
         .child.navbar-toggle .bar-icon {
             font-size: 20px;
-            border: 1px solid #b3b7c61f;
+            border: 1px solid #b9b3c61f;
             padding: 5px 10px 5px 10px;
         }
 
@@ -149,7 +149,7 @@
         
         .child.navbar-toggle .bar-icon {
             font-size: 15px;
-            border: 1px solid #b3b7c61f;
+            border: 1px solid #b3c6bf1f;
             padding: 5px 10px 5px 10px;
         }
 

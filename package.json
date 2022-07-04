@@ -5,17 +5,17 @@
     "ng": "ng",
     "start": "ng serve",
     "start:en": "ng serve --configuration en",
-    "start:pt": "ng serve --configuration pt",
+    "start:fr": "ng serve --configuration fr",
     "build": "ng build",
     "build:en": "ng build --configuration en",
-    "build:pt": "ng build --configuration pt",
+    "build:fr": "ng build --configuration fr",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
     "int:extract": "ng xi18n --output-path src/locales",
     "build-locale:en": "ng build --configuration en",
-    "build-locale:pt": "ng build --configuration pt",
-    "build-locale": "npm run build-locale:en && npm run build-locale:pt"
+    "build-locale:fr": "ng build --configuration fr",
+    "build-locale": "npm run build-locale:en && npm run build-locale:fr"
   },
   "private": true,
   "dependencies": {
@@ -55,7 +55,7 @@
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~13.1.3",
+    "@angular-devkit/build-angular": "^13.3.8",
     "@angular-eslint/builder": "13.0.1",
     "@angular-eslint/eslint-plugin": "13.0.1",
     "@angular-eslint/eslint-plugin-template": "13.0.1",

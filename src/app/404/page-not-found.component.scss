@@ -1,11 +1,11 @@
-$color-black: #2a3c52;
+$color-black: #2b1b38;
 $color-white: #fff;
-$color-blue-1: #3a5f8e;
-$color-blue-2: #3f5571;
+$color-purple-1: #483a8e;
+$color-purple-2: #443f71;
 $color-skin-1: #e2af90;
 $color-skin-2: #d6a486;
 $color-skin-3: #bf9176;
-$color-hair: #2a3c52;
+$color-hair: #17222f;
 $color-wood-1: #601513;
 $color-wood-2: #410a09;
 
@@ -32,7 +32,7 @@ a {
     @include centered;
 
     margin-top: 12em;
-    background-color: $color-blue-1;
+    background-color: $color-purple-1;
     border: 0;
     color: #fff;
     font-size: 20px;
@@ -44,7 +44,7 @@ a {
     text-align: center;
 
     &:hover {
-        background-color: #2a3c52;
+        background-color: #2a523f;
     }
 }
 
@@ -209,19 +209,19 @@ a {
 }
 
 .caveman:nth-child(1) .shape {
-  background-color: $color-blue-1;
+  background-color: $color-purple-1;
 
   .circle {
-    background-color: $color-blue-2;
-    &:after, &:before { background-color: $color-blue-2; }
+    background-color: $color-purple-2;
+    &:after, &:before { background-color: $color-purple-2; }
   }
 }
 
 .caveman:nth-child(2) .shape {
-  background-color: $color-blue-2;
+  background-color: $color-purple-2;
   .circle {
-      background-color: $color-blue-1;
-      &:after, &:before { background-color: $color-blue-1; }
+      background-color: $color-purple-1;
+      &:after, &:before { background-color: $color-purple-1; }
   }
 }
 
